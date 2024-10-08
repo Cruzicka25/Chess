@@ -6,3 +6,12 @@ header{
     background-color: rgb(209, 106, 106);
     font-size:45px;   
 }
+
+nav{
+    position:fixed;
+    left:0;
+    top:0;
+    bottom:0;
+    background-color: rgb(209, 106, 106);
+    width:60px;
+}
