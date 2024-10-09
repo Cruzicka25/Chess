@@ -6,7 +6,7 @@ header{
     top:0px;
     background-color: rgb(193, 90, 90);
     font-size:45px;   
-    border-style:solid;
+    border-style:inset;
     border-width:2px;
     border-color:brown
 }
@@ -17,9 +17,9 @@ nav{
     top:100px;
     bottom:0px;
     background-color: rgb(209, 106, 106);
-    width:60px;
-    font-size:40px;
-    border-style:solid;
-    border-width: 0px 2px 2px 2px;
+    width:120px;
+    font-size:15px;
+    border-style:inset;
+    border-width: 2px 2px 2px 2px;
     border-color:brown
 }
