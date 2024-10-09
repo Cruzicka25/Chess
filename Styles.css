@@ -8,7 +8,8 @@ header{
     font-size:45px;   
     border-style:inset;
     border-width:2px;
-    border-color:rgb(124, 17, 17)
+    border-color:rgb(124, 17, 17);
+    text-align:center;
 }
 
 nav{
